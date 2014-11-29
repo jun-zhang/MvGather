@@ -11,6 +11,7 @@ MvGather中文名影视集结号，是个在线视频客户端，同时也是本
 下载：
 ubuntu:
 deb下载地址：http://mvgather.com/?content/read-10.html
+Arch Linux:https://github.com/behind1231/mvgather-packages
 
 # For Developers
 #### Requirements
